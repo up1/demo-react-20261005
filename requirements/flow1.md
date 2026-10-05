@@ -5,7 +5,7 @@
 
 ## User flow
 1. User enters the tracking code into the search field.
-2. User clicks the search button.
+2. User clicks "ตรวจหาและติดตามพัสดุ".
 3. System validates the tracking code in validation rules
 4. If the tracking code is valid, the system retrieves the data associated with the tracking code from REST API.
 5. System displays the retrieved data to the user.
